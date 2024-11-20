@@ -1,1 +1,1 @@
-# csc_122_queue_examples
+# CSC 122 - Queue Examples
