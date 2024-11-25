@@ -24,7 +24,7 @@ public:
 
   bool is_full()
   {
-    return (start + MAX_SIZE == top);
+    return (arr + MAX_SIZE == top);
   }
 
   void push(T element)
