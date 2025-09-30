@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 
-project("Queue Examples")
+project("Queues")
 
 set (CMAKE_CXX_STANDARD 23)
 
